@@ -1,5 +1,6 @@
 import telebot
 import requests
+
 from telebot import types
 from consts_handler import TOKEN, WEATHER_API_KEY
 
